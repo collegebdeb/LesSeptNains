@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.5",
+	"FriendlyName": "BlueprintHTTP",
+	"Description": "A full HTTP client for Blueprint use. Send easily requests to your HTTP(S) server.",
+	"Category": "Networking",
+	"CreatedBy": "Pandores",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/en-US/profile/Pandores?count=20&sortBy=effectiveDate&sortDir=DESC&start=0",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/298d4c62cda4494fb5931659cdf75ab7",
+	"SupportURL": "mailto:pandores.marketplace@gmail.com",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintHttp",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux"
+			]
+		}
+	]
+}
